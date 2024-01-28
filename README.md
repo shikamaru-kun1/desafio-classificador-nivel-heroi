@@ -61,3 +61,11 @@ Concluído... :white_check_mark:
 </div>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:stefan-lorenz000@hotmail.com) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/shikamaru-kun1) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StefanoLorenzo) [![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/StefanoLorenzo)
+
+
+<h1>Visitas / Visitors / Visitantes: 
+    <p align="center">
+      <br>
+      <img align="center" src="https://profile-counter.glitch.me/shikamaru-kun1/count.svg" />
+    </p>
+</h1>
