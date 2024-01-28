@@ -6,16 +6,17 @@
 
 O utilizador final deverá digitar um nome (**Herói**) e um número inteiro (**Pontos de Experiência**) e receberá uma mensagem contendo a classificação conforme os dados por ele inseridos. **|** The end-user shall type a name (**Hero**) and an integer (**Experience Points**) and it will be shown a message with the classification according the data typed by him.
 
-:memo::pencil: ### **Tabela de Conteúdos | Content Table**
+### **Tabela de Conteúdos | Content Table**
 
 ==========================================================
 
 <!--ts-->
-   * [Status do Projecto **|** Project Status](#Status do Projecto | Project Status)
-   * [O que foi utilizado **|** Used information](#O que foi utilizado | Used information)
-   * [Tecnologias **|** Stack](#Tecnologias | Stack)
-   * [Autor **|** Author](#Autor | Author)
-   * [Contactos **|** Contacts](#Contactos | Contacts)
+   * [Status do Projecto **|** Project Status]
+   * [O que foi utilizado **|** Used information]
+   * [Plano de Desenvolvimento **|** Developing Plan]
+   * [Tecnologias **|** Stack]
+   * [Autor **|** Author]
+   * [Contactos **|** Contacts]
 <!--te-->
 
 ### **Status do Projecto | Project Status**
